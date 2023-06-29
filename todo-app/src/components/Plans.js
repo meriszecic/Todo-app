@@ -2,11 +2,11 @@ import { useEffect, useState } from "react"
 import Rekreativno from "./Rekreativno"
 import Studiranje from "./Studiranje"
 
-export default function Stundes() {
+export default function Plans() {
    
-    useEffect(() => {
-
-    })
+    // useEffect(() => {
+        
+    // })
 
     return (
     <>
